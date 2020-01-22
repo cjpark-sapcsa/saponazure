@@ -1,0 +1,2 @@
+# saponazure
+saponazure all script_landdingzone_DevOps_AKS
